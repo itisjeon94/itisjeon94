@@ -82,7 +82,7 @@ A battle royale where supply drops transform players into characters from differ
 **🧩 Algorithms & Problem Solving · Ongoing**
 Studying algorithms and keeping a record of problem-solving practice.
 
-[Altu-Bitu Study Repository](https://github.com/itisjeon94/Altu-Bitu-KiJiHyeon)
+[Altu-Bitu Study Repository](https://github.com/itisjeon94/Algorithm)
 
 ## 💻 Tools
 
